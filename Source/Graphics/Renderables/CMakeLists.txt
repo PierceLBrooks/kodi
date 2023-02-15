@@ -2,6 +2,8 @@
 
 FILE(GLOB RenderableFiles
   "${CMAKE_CURRENT_LIST_DIR}/Renderable2D.h"
+  "${CMAKE_CURRENT_LIST_DIR}/SkeletalModel.h"
+  "${CMAKE_CURRENT_LIST_DIR}/SkeletalModel.cpp"
   "${CMAKE_CURRENT_LIST_DIR}/Sprite.h"
   "${CMAKE_CURRENT_LIST_DIR}/Sprite.cpp"
 )
